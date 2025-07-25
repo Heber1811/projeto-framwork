@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    background: rgb(241, 227, 227);
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+.divs{
+    background: #fff;
+    border-radius: 15px;
+    margin-bottom: 10px;
+
+
+}
+
+
+.divs_links:hover{
+    color: rgb(235, 55, 55);
+    background: #fff;
+    border: 2px solid;
+
+}
+
+.link_ativo{
+    color: rgb(235, 55, 55) !important;
+    background: #fff !important;
+    border: 2px solid !important;
+
+}
+
+
+.divs_links{
+    background: rgb(235, 55, 55);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px ;
+    color: rgb(15, 22, 22);
+    
+    
+
+
+}
+#banner{
+    height: 130px;
+
+
+}
+
+#menu_lateral{
+    height: calc(100vh - 180px);
+    width: 22vw;
+    float: left;
+    padding: 10px;
+
+}   
+
+
+#central{
+    height: calc(100vh - 160px);
+    width: calc(75vw - 30px);
+    float: right;
+}
+
+
+#titulo_menu{
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        text-transform: uppercase;
+}
+
+#formulário{
+
+}
+
+#foto{
+    
+}
+    
+#youtube{
+
+}

@@ -1,0 +1,54 @@
+
+.categoria_link{
+    text-transform: uppercase;
+    color: #323232;
+    
+    
+}
+.container{
+    max-width: 1340px !important;
+    padding: 10px !important;
+    
+    
+}
+
+.col{
+ display: block !important;
+}
+   
+.nav-link{
+    font-size: 22px !important;
+    margin-right: 30px !important;
+    
+}
+
+.categorias{
+    padding: 30px !important;
+    
+    
+}
+
+.card{
+    margin-top: 20px;
+    
+ }
+ 
+ 
+
+#logo{
+    float: left;
+    width: 20vw;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+    color: mediumaquamarine;
+}
+ 
+#banner{
+    height: 40vh;
+    width: 100vw;
+    background:url(../img/banner2.jpg) ;
+    -webkit-box-shadow: 0px 2px 6px -1px rgba(0,0,0,0.68); 
+    box-shadow: 0px 2px 6px -1px rgba(0,0,0,0.68);
+}
+    
